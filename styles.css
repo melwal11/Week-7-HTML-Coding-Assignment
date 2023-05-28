@@ -1,0 +1,38 @@
+ h1 {
+    font-family: Georgia;
+    size: 30px;
+    color: darkslategrey;
+    text-shadow: white 2px 2px;
+  }
+
+  h2 {
+    font-family: Georgia;
+    font-size: 20px;
+    color: rgb(62, 70, 79)
+  } 
+  div {
+    border-style: solid; 
+    border-color: white; 
+    border-radius: 10px;
+    font-family: Georgia;
+
+  }
+  
+  img {
+    width: 700px;
+    border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 5px;
+  }
+img:hover {
+    box-shadow: 5px 5px 20px lightskyblue;
+}
+  table {
+    border-style: double;
+    width: 68%;
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;
+    border: bisque;
+  }
